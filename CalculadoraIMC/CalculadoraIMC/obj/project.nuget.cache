@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNaN8ex0TTUbUq3KJ8qd399BLVF/wohfo/kEpIxx/YVduJPt+03dJzKVnw5hVeXQr3DYJdYp1MlrYkf3id3Vpw==",
+  "success": true,
+  "projectFilePath": "D:\\Usuários\\Samuel\\Documentos\\Back-End Senai\\UC12 - Testes em Back-End\\UC12_Calculadora_IMC_Xunitest\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
